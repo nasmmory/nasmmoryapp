@@ -1,0 +1,6 @@
+{
+  "name": "NASMMORY",
+  "description": "Creative digital agency and multimedia studio offering photography, videography, and web development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
